@@ -9,12 +9,27 @@
 I’m a **Computer Science student** specializing in **Full-Stack Web Development** (with a *love* for Frontend magic ✨) and exploring **AI/ML integration** in modern web apps.  
 💡 My mission: **to create smooth, creative, and intelligent digital experiences that feel alive.**  
 
-🔹 Frontend: React.js, Next.js, VanillaCSS, Framer Motion  
-🔹 Backend: FastAPI, Node.js, Express.js , Python 
+
+Other than coding my love for writing is uncondiitonal I write poems and short stories since I was 15. If you love reading poems I have a dedicated site for my poems collection . Do visit 
+<p><img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="200"/></p>
+
+Also <details>
+<summary>🎉 Fun Fact</summary>
+I love making clay art and crocheting in my free time! 🧶
+</details>
+
+
+
+🔹 Frontend: React.js, Bootstrap, VanillaCSS, Framer Motion  
+🔹 Backend: FastAPI, Node.js, Express.js , Python , Restful APIs
 🔹 Databases: MySQL, MongoDB  
 🔹 AI/ML: Python, scikit-learn, TensorFlow (basics)  
+🔹Core cocepts: DSA, Algorithms and SE 
+
+
 
 ---
+
 
 ## 🛠 Languages & Tools  
 
@@ -73,6 +88,8 @@ I’m a **Computer Science student** specializing in **Full-Stack Web Developmen
 - [**Portfolio Website**](https://ashmitas-portfolio.onrender.com/) — React-based personal portfolio.  
 
 ---
+
+
 
 <p align="center">✨ Always learning, always building ✨</p>
 
