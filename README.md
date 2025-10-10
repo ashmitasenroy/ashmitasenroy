@@ -86,6 +86,7 @@ I love making clay art and crocheting in my free time! 🧶
 - [**LumiClock**](https://github.com/ashmitasenroy/LumiClock) — Creative productivity app with animated videos + focus timer.  
 - [**AI Time-Slot Prediction Model**](https://github.com/ashmitasenroy/SIH-2024-PSID-1761) — AI-based scheduling predictor.  
 - [**Portfolio Website**](https://ashmitas-portfolio.onrender.com/) — React-based personal portfolio.  
+  -[**Detection of Hateful Memes**](https://github.com/ashmitasenroy/Detection-of-hateful-Memes)-Detects hateful & non hateful memes
 
 ---
 
