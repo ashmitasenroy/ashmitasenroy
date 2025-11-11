@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me 
-I’m a **Computer Science student** specializing in **Full-Stack Web Development** (with a *love* for Frontend magic ✨) and exploring **AI/ML integration** in modern web apps.  
+I’m a **Computer Science student** specializing in **Full-Stack Web Development** (with a *love* for Frontend magic ✨) and exploring **AI/ML integration** in modern web apps
 💡 My mission: **to create smooth, creative, and intelligent digital experiences that feel alive.**  
 
 
