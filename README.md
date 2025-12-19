@@ -1,7 +1,7 @@
 <!-- HEADER & LOGO -->
 <div align="center">
   
-  <h1 align="center">Hi there, I'm Ashmita Sen Roy! 🌸</h1>
+  <h1 align="center">Hello there, I'm Ashmita Sen Roy! 🌸</h1>
   
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Cute+%26+Scalable+Apps;Coffee+%2B+Code+%2B+Creativity;" alt="Typing animation" />
@@ -16,6 +16,7 @@ I’m a **Final Year Computer Science Student** (Class of 2026) blending the wor
 *   🌱 **Currently Learning:** Microservices Architecture & Rust.
 *   👯 **Mentoring:** Helping 200+ students as **GDSC Editorial Lead**.
 *   ⚡ **Superpower:** Turning complex logic into smooth UI.
+
 
 ---
 
