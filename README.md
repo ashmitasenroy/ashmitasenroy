@@ -10,7 +10,11 @@
 <br/>
 
 ## 🌷 About Me
-I’m a **Final Year Computer Science Student** (Class of 2026) blending the world of **AI/ML** with **Creative Web Development**. I don't just write code; I craft experiences that are secure, smart, and user-friendly.
+Final Year Computer Science Student (Class of 2026) | Aspiring SDE  
+Frontend / Full-Stack | AI-Driven Systems | Clean UI + Strong Logic
+
+I build secure, scalable, and user-focused web applications.  
+My strength lies in turning complex backend logic into intuitive user experiences.
 
 *   🔭 **Internships:** **PwC** (Cyber Risk-Launchpad) & **WebBees** (Tech Writing).
 *   🌱 **Currently Learning:** Microservices Architecture & Rust.
