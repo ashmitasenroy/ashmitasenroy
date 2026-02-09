@@ -26,6 +26,8 @@ I’m a **Final Year Computer Science Student** (Class of 2026) blending the wor
 </div>
 
 Other than coding my love for writing is uncondiitonal I write poems and short stories since I was 15. If you love reading poems I have a dedicated site for my poems collection . Do visit 
+<a href="https://ashmitas-portfolio.onrender.com/poems">
+</a>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="200" alt="Writing GIF"/>
