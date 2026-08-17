@@ -164,6 +164,14 @@ https://ashmitas-portfolio.onrender.com/poems
 
 <br/>
 
+<div align="center">
+
+<img src="./ashmita_lore.gif" width="90%"/>
+
+</div>
+
+</details>
+
 
 
 ---
