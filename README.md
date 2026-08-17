@@ -142,7 +142,7 @@ I enjoy vulnerability assessment, web application security, security scripting, 
 > Then suddenly I’m training an ML model. 🤖
 > Five minutes later I’m writing a blog post. ✍️
 > And at 2 AM? Apparently I’m a poet now. 🌙
-> No niche. Just vibes, curiosity, and questionable sleep schedules.
+> No niche. Just some questionable sleep schedules.
 
 > **Occasionally debugging my entire existence. 🖤**
 
@@ -164,15 +164,30 @@ https://ashmitas-portfolio.onrender.com/poems
 
 <br/>
 
-<div align="center">
+> 🐧 Installed Linux. Lost Windows. Gained personality.
 
-<img src="./ashmita_lore.gif" width="90%"/>
+<details>
+<summary>✨ another one?</summary>
 
-</div>
+> 🔐 Opens Burp Suite → suddenly thinks she's Batman.
 
 </details>
 
+<details>
+<summary>✨ one more?</summary>
 
+> 🤖 Trains ML models but can't train herself to sleep on time.
+
+</details>
+
+<details>
+<summary>✨ okay last one</summary>
+
+> 🌙 2 AM: debugging. 2:05 AM: writing poetry.
+
+</details>
+
+</details>
 
 ---
 
@@ -180,13 +195,9 @@ https://ashmitas-portfolio.onrender.com/poems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashmitasenroy&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashmitasenroy&theme=radical" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitasenroy&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FF69B4&text_color=FFFFFF" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ashmitasenroy&theme=radical&hide_border=true&background=000000&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashmitasenroy&theme=radical" height="165"/>
 
 <br/><br/>
 
@@ -201,15 +212,15 @@ https://ashmitas-portfolio.onrender.com/poems
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ashmita-sen-roy/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4"/>
 </a>
 
 <a href="https://ashmitas-portfolio.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FF69B4&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FF69B4"/>
 </a>
 
 <a href="mailto:ashmitasenroyy@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF69B4&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF69B4"/>
 </a>
 
 </div>
