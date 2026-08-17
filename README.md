@@ -137,13 +137,14 @@ I enjoy vulnerability assessment, web application security, security scripting, 
 
 </div>
 
-> One day it's a Linux script.  
-> Next day it's a Burp lab.  
-> Then an ML model.  
-> Then a blog post.  
-> Then somehow a poem at 2 AM.  
->
-> **Always learning. Always building. Rarely resting. 🖤**
+> One day it’s a Linux script. 🐧
+> Next day it’s a Burp lab. 🕵️‍♀️
+> Then suddenly I’m training an ML model. 🤖
+> Five minutes later I’m writing a blog post. ✍️
+> And at 2 AM? Apparently I’m a poet now. 🌙
+> No niche. Just vibes, curiosity, and questionable sleep schedules.
+
+> **Occasionally debugging my entire existence. 🖤**
 
 ---
 
@@ -153,7 +154,7 @@ I enjoy vulnerability assessment, web application security, security scripting, 
 📚 **Reading:** Mystery, crime & thriller fiction  
 🎬 **Watching:** Crime & investigative documentaries  
 🧶 **Creating:** Crochet & clay art  
-☕ **Surviving:** On coffee and questionable sleep schedules
+
 
 🌷 **Poems Portfolio:**  
 https://ashmitas-portfolio.onrender.com/poems
@@ -163,15 +164,7 @@ https://ashmitas-portfolio.onrender.com/poems
 
 <br/>
 
-🖤 Cybersecurity brain.  
-🌸 Soft-girl hobbies.  
-🕷️ Burp Suite tabs everywhere.  
-✍️ Writes when the brain gets too loud.  
-🧶 Crochets because apparently debugging wasn't enough.  
-🕵️ Loves a good mystery.  
-☕ Coffee is basically a security tool.
 
-</details>
 
 ---
 
@@ -185,7 +178,7 @@ https://ashmitas-portfolio.onrender.com/poems
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ashmitasenroy&theme=radical&hide_border=true&background=000000&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
+<img src="https://streak-stats.demolab.com?user=ashmitasenroy&theme=radical&hide_border=true&background=000000&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" height="165"/>
 
 <br/><br/>
 
@@ -199,16 +192,16 @@ https://ashmitas-portfolio.onrender.com/poems
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4"/>
+<a href="https://www.linkedin.com/in/ashmita-sen-roy/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4&labelColor=000000"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FF69B4"/>
+<a href="https://ashmitas-portfolio.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FF69B4&labelColor=000000"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF69B4"/>
+<a href="mailto:ashmitasenroyy@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF69B4&labelColor=000000"/>
 </a>
 
 </div>
