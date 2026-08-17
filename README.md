@@ -1,137 +1,224 @@
 <!-- HEADER & LOGO -->
 <div align="center">
-  
-  <h1 align="center">Hello there, I'm Ashmita Sen Roy! 🌸</h1>
-  
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Cute+%26+Scalable+Apps;Coffee+%2B+Code+%2B+Creativity;" alt="Typing animation" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0014,100:ff69b4&height=180&section=header&text=ASHMITA%20SEN%20ROY&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%7C%20VAPT%20%7C%20Web%20Security&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=FF69B4&center=true&vCenter=true&width=800&lines=Cybersecurity+Analyst+%7C+VAPT+%7C+Web+Security;7%2B+Months+of+Hands-on+VAPT+Experience;Burp+Suite+%7C+Nessus+%7C+Kali+Linux;Security+Scripting+%7C+AI%2FML;Breaking+Things+%26+Building+Them+Better+%F0%9F%8C%B8" alt="Typing animation"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CYBERSECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=FF69B4"/>
+<img src="https://img.shields.io/badge/VAPT-000000?style=for-the-badge&logo=kalilinux&logoColor=FF69B4"/>
+<img src="https://img.shields.io/badge/WEB%20SECURITY-000000?style=for-the-badge&logo=owasp&logoColor=FF69B4"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-000000?style=for-the-badge&logo=scikitlearn&logoColor=FF69B4"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ashmitasenroy&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge"/>
+
+</div>
+
+---
+
+## ✍️ Blogs & 🌱 Currently Learning
+
+> 🕷️ Learning web security one request at a time — currently deep in **Burp Suite, OWASP, HTTP, APIs, VAPT & offensive security**.  
+> ☕ I turn random security rabbit holes into **tiny notes, write-ups and “wait… why does this work?” moments**.  
+> 🌸 Also learning how to make complicated security concepts sound less complicated.
+
+---
 
 ## 🌷 About Me
-Final Year Computer Science Student (Class of 2026) | Aspiring SDE  
-Frontend / Full-Stack | AI-Driven Systems | Clean UI + Strong Logic
 
-I build secure, scalable, and user-focused web applications.  
-My strength lies in turning complex backend logic into intuitive user experiences.
+I'm a **Computer Science Engineering graduate** and a **Cybersecurity Analyst with 7+ months of hands-on VAPT experience at RSM India**.
 
-*   🔭 **Internships:** **PwC** (Cyber Risk-Launchpad) & **WebBees** (Tech Writing).
-*   🌱 **Currently Learning:** Microservices Architecture & Rust.
-*   👯 **Mentoring:** Helping 200+ students as **GDSC Editorial Lead**.
-*   ⚡ **Superpower:** Turning complex logic into smooth UI.
+I enjoy vulnerability assessment, web application security, security scripting, and understanding *why* something breaks — not just knowing that it does.
 
+* 🔐 **Focus:** Cybersecurity | VAPT | Web Application Security
+* 🕷️ **Tools:** Burp Suite | Nessus | Kali Linux
+* 💻 **Scripting:** Windows | RHEL | Debian | Solaris | SQL
+* 🗄️ **Database Security:** MS SQL Server | MySQL
+* 🤖 **Also exploring:** AI × Cybersecurity
+* 🎀 **Current goal:** Become ridiculously good at Web Application Penetration Testing
+
+> **Pretty things. Serious security. Endless curiosity. 🖤**
 
 ---
 
-<!-- MANDATORY PERSONAL SECTION -->
+## 💼 Experience
+
+### 🖤 RSM India — Cybersecurity Analyst / VAPT
+
+- **Nessus Vulnerability Assessment:** Performed Advanced and Host Discovery scans, analyzed and validated findings, conducted service and connectivity checks, prioritized vulnerabilities, and delivered technical assessment reports.
+- **Security Scripting & Automation:** Developed assessment scripts for **Windows, RHEL, Debian, and Solaris** to automate vulnerability checks, security configuration validation, and SCD assessments.
+- **Database Security Assessment:** Developed **SQL-based assessment scripts for MS SQL Server and MySQL** to validate security configurations, SCD controls, collect evidence, and streamline reporting.
+- **Web Application Security Testing:** Leveraged **Burp Suite** to assess authentication, authorization, input validation, session management, security headers, and sensitive-data exposure.
+
+### 🎀 PwC — Cyber Risk & Regulatory Launchpad
+
+- Completed a **23-week professional training program** covering cybersecurity fundamentals, cyber risk, data protection, regulatory compliance, and prompt engineering.
+- Built a foundation in **cyber risk, security controls, governance, and risk-based security thinking**.
+
+---
+
+## 🌸 Skills & Toolkit
+
+### 🔐 Cybersecurity
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
+![Nessus](https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=00AEEF)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=FF69B4)
+
+### 💻 Scripting
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FF69B4)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF69B4)
+
+### 🖥️ Platforms
+![RHEL](https://img.shields.io/badge/RHEL-000000?style=for-the-badge&logo=redhat&logoColor=EE0000)
+![Debian](https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=A81D33)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=00A4EF)
+![Solaris](https://img.shields.io/badge/Solaris-000000?style=for-the-badge&logo=oracle&logoColor=FF69B4)
+
+### 🤖 AI / ML
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF69B4)
+
+---
+
+## 🛡️ Projects
+
+### 🌷 SecureScan AI — AI-Based Vulnerability Assessment System
+
+- Developed an AI-assisted web vulnerability assessment platform integrating **OWASP Top 10 classification, risk prioritization, and remediation recommendations**.
+- Implemented **Random Forest and Isolation Forest** models for vulnerability classification, confidence scoring, false-positive reduction, and anomaly detection.
+- Integrated **Burp Suite / OWASP ZAP findings** with an interactive dashboard for vulnerability analysis, risk visualization, and AI-assisted reporting.
+
+`Python` `Machine Learning` `OWASP` `Burp Suite` `OWASP ZAP`
+
+### 🤖 Revu AI
+
+- Built an **AI-powered code review extension** focused on intelligent code analysis and improving review efficiency.
+- `React` `Express` `REST APIs` `Gemini`
+
+### 🚚 PostAI — Smart India Hackathon
+
+- Built an AI-driven logistics optimization solution around the **Vehicle Routing Problem (VRP)**.
+- `Python` `Machine Learning` `Google OR-Tools`
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Finalist — Smart India Hackathon 2024**
+- 🏅 **National Finalist — DPBH 2023, IIT-BHU**
+- 🛡️ **7+ Months — Cybersecurity / VAPT Experience at RSM**
+- 🎀 **PwC Cyber Risk & Regulatory Launchpad**
+- 🚀 **Vice President — Enactus SMIT**
+
+---
+
+## 🎀 Extracurriculars
+
+- ✍️ **GDSC — Editorial Team:** Technical writing, community content & student engagement.
+- 🎤 **TEDxSMIT:** Contributed to the organization and execution of a student-led TEDx community.
+- 🌱 **Enactus SMIT — Vice President:** Leadership, collaboration, R&D & social-impact initiatives.
+- 💌 **College Communities:** Technical, creative & leadership communities — always involved, rarely sitting still.
+
+---
+
+## 🖤 Never Resting
+
 <div align="center">
-<h3> 🎀 The Creative Side 🎀 </h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=Learn+something.;Build+something.;Break+something.;Fix+something.;Write+about+it.;Repeat.+%F0%9F%8C%B8"/>
+
 </div>
 
-Other than coding my love for writing is uncondiitonal I write poems and short stories since I was 15. If you love reading poems I have a dedicated site for my poems collection . Do visit 
-[Poems Portfolio](https://ashmitas-portfolio.onrender.com/poems)
+> One day it's a Linux script.  
+> Next day it's a Burp lab.  
+> Then an ML model.  
+> Then a blog post.  
+> Then somehow a poem at 2 AM.  
+>
+> **Always learning. Always building. Rarely resting. 🖤**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="200" alt="Writing GIF"/>
-</p>
+---
 
-Also <details>
-<summary><strong>🎉 Fun Fact (Click me!)</strong></summary>
-I love making clay art and crocheting in my free time! 🧶✨
+## 🌸 The Soft Side
+
+✍️ **Writing:** Poems & short stories since I was 15  
+📚 **Reading:** Mystery, crime & thriller fiction  
+🎬 **Watching:** Crime & investigative documentaries  
+🧶 **Creating:** Crochet & clay art  
+☕ **Surviving:** On coffee and questionable sleep schedules
+
+🌷 **Poems Portfolio:**  
+https://ashmitas-portfolio.onrender.com/poems
+
+<details>
+<summary>🎀 <strong>tiny Ashmita lore</strong></summary>
+
+<br/>
+
+🖤 Cybersecurity brain.  
+🌸 Soft-girl hobbies.  
+🕷️ Burp Suite tabs everywhere.  
+✍️ Writes when the brain gets too loud.  
+🧶 Crochets because apparently debugging wasn't enough.  
+🕵️ Loves a good mystery.  
+☕ Coffee is basically a security tool.
+
 </details>
 
-<br/>
+---
 
-## 🛠️ The Tech Stack (My Toolkit)
+## 📊 GitHub Stats
 
-### 🌸 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
 
-### 🎨 Frontend (The Pretty Stuff)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=ashmitasenroy&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF" height="165"/>
 
-### ⚙️ Backend & APIs (The Brains)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitasenroy&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FF69B4&text_color=FFFFFF" height="165"/>
 
-### 🤖 AI/ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<br/><br/>
 
-### ☁️ Cloud & Tools
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://streak-stats.demolab.com?user=ashmitasenroy&theme=radical&hide_border=true&background=000000&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
 
-### 🗄️ Databases & Automation
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Hasura](https://img.shields.io/badge/Hasura-1F5156?style=for-the-badge&logo=hasura&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashmitasenroy&theme=radical" width="90%"/>
+
+</div>
 
 ---
 
-## 🏆 Trophies & Achievements
+## 💌 Let's Connect
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashmitasenroy&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="ashmitasenroy" />
-  </a>
-</div>
 
-*   🥇 **Finalist - Smart India Hackathon 2024:** Top 5 nationwide for AI Logistics Innovation.
-*   🏅 **National Finalist - DPBH 2023:** Dark Patterns Detection Tool at IIT-BHU.
-*   🚀 **Vice President - Enactus SMIT:** Led R&D for "Eco-Hues" (Sustainable Products).
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4"/>
+</a>
 
----
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FF69B4"/>
+</a>
 
-## 🌟 Featured Projects
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF69B4"/>
+</a>
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🤖 Revu AI** | **AI-Powered Code Review Extension.** Reduces manual review time by 40% using Gemini 2.5 Flash API. Live on Edge Store. | React, Express, REST, Gemini |
-| **🚚 PostAI (SIH)** | **Logistics Optimization.** Solves Vehicle Routing Problem (VRP) for India Post using Google OR-Tools. | Python, ML, Google OR-Tools |
-| **💬 SubChat** | **Real-time Chat App.** Low latency bidirectional chat using WebSockets & GraphQL. | React, GraphQL, Hasura, n8n |
-
----
-
-## 🧩 Daily Dose of Fun
-<div align="center">
-  <!-- Jokes Card -->
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" width="500" />
 </div>
 
 <br/>
 
-<!-- Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashmitasenroy&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitasenroy&layout=compact&theme=radical&hide_border=true" height="165"/>
-</div>
 
-<br/>
+### 🖤 pretty code. serious security. endless curiosity. 🌸
 
-<!-- 3D Contribution Graph (The Cool Part) -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashmitasenroy&theme=radical" alt="Profile Details" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ashmitasenroy&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:1a0014,100:000000&height=130&section=footer"/>
 
-<!-- FOOTER -->
-<div align="center">
-  <br/>
-  <p>✨ <i>Always learning, always building, always writing.</i> ✨</p>
-  <img src="https://komarev.com/ghpvc/?username=ashmitasenroy&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views"/>
 </div>
